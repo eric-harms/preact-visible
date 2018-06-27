@@ -2,6 +2,12 @@
   "name": "preact-visible",
   "description": "A tiny wrapper component that determines if its children are visible.",
   "author": "Eric Harms",
+  "keywords": [
+    "preact",
+    "javascript",
+    "es6",
+    "component"
+  ],
   "license": "MIT",
   "version": "1.0.0",
   "main": "builds/index.js",
