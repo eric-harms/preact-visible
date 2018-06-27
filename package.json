@@ -1,0 +1,22 @@
+{
+  "name": "preact-visible",
+  "description": "A tiny wrapper component that determines if its children are visible.",
+  "author": "Eric Harms",
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "builds/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-preact": "^1.1.0",
+    "preact": "^8.2.9",
+    "preact-dom": "^1.0.1",
+    "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.7",
+    "babel-plugin-transform-class-properties": "^6.24.1"
+  }
+}
