@@ -1,6 +1,6 @@
 # Change Log
 
-## Uncommitted changes
+## 1.0.1 (2018-06-27)
 
 * Added: Keywords in package.json.
 * Updated: Readme with badges and contributing section.
